@@ -1,5 +1,6 @@
 ﻿using Firebase;
 using Firebase.Database;
+using Firebase.Auth;
 using Firebase.Unity.Editor;
 using UnityEngine;
 
@@ -13,7 +14,7 @@ public class FBInit : MonoBehaviour {
         FirebaseApp.DefaultInstance.SetEditorDatabaseUrl("https://unknown-cec43.firebaseio.com/");
 
         mDatabaseRef = FirebaseDatabase.DefaultInstance.RootReference;
-        WriteNewUser("0000", "wonsangL", "harryandws@gmail.com");
+
     }
 
     private void WriteNewUser(string userId, string name, string email)
