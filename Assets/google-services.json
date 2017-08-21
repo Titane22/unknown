@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "293926834721",
+    "firebase_url": "https://unknown-cec43.firebaseio.com",
+    "project_id": "unknown-cec43",
+    "storage_bucket": "unknown-cec43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293926834721:android:1a8ea8a1536abc6f",
+        "android_client_info": {
+          "package_name": "com.WonsangL.Unknown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293926834721-b6udc00t4qe3muk4nhs1snecv136jibf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD13NHJwEs8gAhLLj5ON5gu5cgIVCsbFAI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
